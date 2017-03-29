@@ -1,4 +1,5 @@
-<form action="new_user_path" method="post" accept-charset="UTF-8">
+<form action="<%= new_user_path %>" method="get" accept-charset="UTF-8">
+  <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
   <label for="uname">Username: </label>
   <input type="text" name="uname"><br>
   <label>Email: </label>
