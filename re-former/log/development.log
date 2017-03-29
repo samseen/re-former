@@ -265,3 +265,93 @@ Processing by UsersController#new as HTML
 Completed 200 OK in 106ms (Views: 103.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/users/new?authenticity_token=MAlRpRgKY%2FyLVp%2B0ZZ7gW9M058BqOxUdx1VDUHBw8t7H1Biyp5cfrkEPh4pRCACXKq%2FVwP5f97NiUaJDPy7wUQ%3D%3D&uname=Samseen&email=samson007bond%40yahoo.com&password=[FILTERED]" for 10.240.1.18 at 2017-03-29 17:51:45 +0000
+Cannot render console from 10.240.1.18! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#new as HTML
+  Parameters: {"authenticity_token"=>"MAlRpRgKY/yLVp+0ZZ7gW9M058BqOxUdx1VDUHBw8t7H1Biyp5cfrkEPh4pRCACXKq/VwP5f97NiUaJDPy7wUQ==", "uname"=>"Samseen", "email"=>"samson007bond@yahoo.com", "password"=>"[FILTERED]"}
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 75ms (Views: 73.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new?authenticity_token=9ms43yMncqMI8TTyI0Xi540%2FCsEHL4Up9mXEJYG9M1sBtnHInLoO8cKoLMwX0wIrdKQ4wZNLZ4dTYSU2zuMx1A%3D%3D&username=Samseen&email=samson007bond%40yahoo.com&password=[FILTERED]" for 10.240.0.181 at 2017-03-29 17:52:08 +0000
+Cannot render console from 10.240.0.181! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#new as HTML
+  Parameters: {"authenticity_token"=>"9ms43yMncqMI8TTyI0Xi540/CsEHL4Up9mXEJYG9M1sBtnHInLoO8cKoLMwX0wIrdKQ4wZNLZ4dTYSU2zuMx1A==", "username"=>"Samseen", "email"=>"samson007bond@yahoo.com", "password"=>"[FILTERED]"}
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 28ms (Views: 26.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new?authenticity_token=o2yySQ0geLZH0%2BIL%2FMX5duCr21XrXTuJUbHTbp7zQBtUsftesr0E5I2K%2BjXIUxm6GTDpVX852Sf0tTJ90a1ClA%3D%3D&username=Samseen&email=samson007bond%40yahoo.com&password=[FILTERED]" for 10.240.0.215 at 2017-03-29 18:23:52 +0000
+Cannot render console from 10.240.0.215! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#new as HTML
+  Parameters: {"authenticity_token"=>"o2yySQ0geLZH0+IL/MX5duCr21XrXTuJUbHTbp7zQBtUsftesr0E5I2K+jXIUxm6GTDpVX852Sf0tTJ90a1ClA==", "username"=>"Samseen", "email"=>"samson007bond@yahoo.com", "password"=>"[FILTERED]"}
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 28ms (Views: 26.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new?authenticity_token=o2yySQ0geLZH0%2BIL%2FMX5duCr21XrXTuJUbHTbp7zQBtUsftesr0E5I2K%2BjXIUxm6GTDpVX852Sf0tTJ90a1ClA%3D%3D&username=Samseen&email=samson007bond%40yahoo.com&password=[FILTERED]" for 10.240.0.196 at 2017-03-29 18:24:50 +0000
+Cannot render console from 10.240.0.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#new as HTML
+  Parameters: {"authenticity_token"=>"o2yySQ0geLZH0+IL/MX5duCr21XrXTuJUbHTbp7zQBtUsftesr0E5I2K+jXIUxm6GTDpVX852Sf0tTJ90a1ClA==", "username"=>"Samseen", "email"=>"samson007bond@yahoo.com", "password"=>"[FILTERED]"}
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 27ms (Views: 25.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new?authenticity_token=50%2B9mQAGa8Km3YFq0CvBtLnp8LV061VNo%2BUpl46QLYwQkvSOv5sXkGyEmVTkvSF4QHLCteCPt%2BMG4ciEwc4vAw%3D%3D&username=Samseen&email=samson007bond%40yahoo.com&password=[FILTERED]" for 10.240.0.215 at 2017-03-29 18:25:09 +0000
+Cannot render console from 10.240.0.215! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#new as HTML
+  Parameters: {"authenticity_token"=>"50+9mQAGa8Km3YFq0CvBtLnp8LV061VNo+Upl46QLYwQkvSOv5sXkGyEmVTkvSF4QHLCteCPt+MG4ciEwc4vAw==", "username"=>"Samseen", "email"=>"samson007bond@yahoo.com", "password"=>"[FILTERED]"}
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 25ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new?authenticity_token=wcmM85we8jtu3Pol29NkNtJqppAHNvWSX6u70nlxmaE2FMXkI4OOaaSF4hvvRYT6K%2FGUkJNSFzz6r1rBNi%2BbLg%3D%3D&username=Sodiq&email=sodikalemzy%40yahoo.com&password=[FILTERED]" for 10.240.0.215 at 2017-03-29 18:25:38 +0000
+Cannot render console from 10.240.0.215! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#new as HTML
+  Parameters: {"authenticity_token"=>"wcmM85we8jtu3Pol29NkNtJqppAHNvWSX6u70nlxmaE2FMXkI4OOaaSF4hvvRYT6K/GUkJNSFzz6r1rBNi+bLg==", "username"=>"Sodiq", "email"=>"sodikalemzy@yahoo.com", "password"=>"[FILTERED]"}
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 24ms (Views: 22.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new?authenticity_token=wcmM85we8jtu3Pol29NkNtJqppAHNvWSX6u70nlxmaE2FMXkI4OOaaSF4hvvRYT6K%2FGUkJNSFzz6r1rBNi%2BbLg%3D%3D&username=Sodiq&email=sodikalemzy%40yahoo.com&password=[FILTERED]" for 10.240.0.224 at 2017-03-29 18:33:33 +0000
+Cannot render console from 10.240.0.224! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#new as HTML
+  Parameters: {"authenticity_token"=>"wcmM85we8jtu3Pol29NkNtJqppAHNvWSX6u70nlxmaE2FMXkI4OOaaSF4hvvRYT6K/GUkJNSFzz6r1rBNi+bLg==", "username"=>"Sodiq", "email"=>"sodikalemzy@yahoo.com", "password"=>"[FILTERED]"}
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 26ms (Views: 24.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new?authenticity_token=HVBVeVRoj0DC76BfyPsOJUmUIoAXGHXNIAZDlH1T82XqjRxu6%2FXzEgi2uGH8be7psA8QgIN8l2OFAqKHMg3x6g%3D%3D&user%5Busername%5D=Saidat&user%5Bemail%5D=saidat%40yahoo.com&user%5Bpassword%5D=[FILTERED]" for 10.240.0.224 at 2017-03-29 18:33:47 +0000
+Cannot render console from 10.240.0.224! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#new as HTML
+  Parameters: {"authenticity_token"=>"HVBVeVRoj0DC76BfyPsOJUmUIoAXGHXNIAZDlH1T82XqjRxu6/XzEgi2uGH8be7psA8QgIN8l2OFAqKHMg3x6g==", "user"=>{"username"=>"Saidat", "email"=>"saidat@yahoo.com", "password"=>"[FILTERED]"}}
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 25ms (Views: 23.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new?authenticity_token=HVBVeVRoj0DC76BfyPsOJUmUIoAXGHXNIAZDlH1T82XqjRxu6%2FXzEgi2uGH8be7psA8QgIN8l2OFAqKHMg3x6g%3D%3D&user%5Busername%5D=Saidat&user%5Bemail%5D=saidat%40yahoo.com&user%5Bpassword%5D=[FILTERED]" for 10.240.0.185 at 2017-03-29 18:42:54 +0000
+Cannot render console from 10.240.0.185! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#new as HTML
+  Parameters: {"authenticity_token"=>"HVBVeVRoj0DC76BfyPsOJUmUIoAXGHXNIAZDlH1T82XqjRxu6/XzEgi2uGH8be7psA8QgIN8l2OFAqKHMg3x6g==", "user"=>{"username"=>"Saidat", "email"=>"saidat@yahoo.com", "password"=>"[FILTERED]"}}
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 30ms (Views: 28.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new?authenticity_token=thL3sOzbplzW3aBKCtDIRyH4iAJkkR3yKAcx8WzABzdBz76nU0baDhyEuHQ%2BRiiL2GO6AvD1%2F1yNA9DiI54FuA%3D%3D&user%5Busername%5D=Sammy&user%5Bemail%5D=sammy%40akanbi.com&user%5Bpassword%5D=[FILTERED]" for 10.240.1.67 at 2017-03-29 18:43:15 +0000
+Cannot render console from 10.240.1.67! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#new as HTML
+  Parameters: {"authenticity_token"=>"thL3sOzbplzW3aBKCtDIRyH4iAJkkR3yKAcx8WzABzdBz76nU0baDhyEuHQ+RiiL2GO6AvD1/1yNA9DiI54FuA==", "user"=>{"username"=>"Sammy", "email"=>"sammy@akanbi.com", "password"=>"[FILTERED]"}}
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 26ms (Views: 24.2ms | ActiveRecord: 0.0ms)
+
+
