@@ -9,11 +9,18 @@
 <!--  <input type="submit" value="Submit">-->
 <!--</form>-->
 
-<%= form_tag(new_user_path, :method=>'post') do %>
-  <%= label_tag 'username' %>
-  <%= text_field_tag 'Username' %>
-  <%= label_tag 'email' %>
-  <%= email_field_tag 'email' %>
-  <%= password_field_tag 'password' %>
-  <%= submit_tag 'Submit' %>
+<!--<%= form_tag('/users', :method=>'post') do %>-->
+<!--  <%= label_tag 'username' %>-->
+<!--  <%= text_field_tag 'Username' %>-->
+<!--  <%= label_tag 'email' %>-->
+<!--  <%= email_field_tag 'email' %>-->
+<!--  <%= password_field_tag 'password' %>-->
+<!--  <%= submit_tag 'Submit' %>-->
+<!--<% end %>-->
+
+<%= form_for @user do |f| %>
+  Username: <%= f.text_field :username %><br />
+  Email : <%= f.text_field :email %><br />
+  Password : <%= f.password_field :password %><br />
+  <%= f.submit %>
 <% end %>
