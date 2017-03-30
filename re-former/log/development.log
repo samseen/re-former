@@ -563,3 +563,11 @@ Processing by UsersController#new as HTML
 Completed 200 OK in 36ms (Views: 34.0ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/users/new" for 10.240.1.31 at 2017-03-29 19:46:06 +0000
+Cannot render console from 10.240.1.31! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#new as HTML
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 23ms (Views: 21.9ms | ActiveRecord: 0.0ms)
+
+
